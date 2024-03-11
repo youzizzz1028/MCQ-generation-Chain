@@ -5,7 +5,7 @@
    > 我们使用的是gpt4，你的api_key需要拥有和gpt4对话的权限
    > 或者你也可以更换代码中的model_name为gpt3.5模型
 3. 替换你的serpapi_api_key
-   > serpapi_api_key可以去https://serpapi.com/manage-api-key网站注册免费获得
+   > serpapi_api_key可以去https://serpapi.com/manage-api-key 网站注册免费获得
 5. 替换knowledge为你想要生成的知识点
 6. 运行即可
 
