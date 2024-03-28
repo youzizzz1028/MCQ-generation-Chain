@@ -1,8 +1,8 @@
 from generate import *
 import os
 # API-KEY Settings
-os.environ["OPENAI_API_KEY"] = "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"
-os.environ["SERPAPI_API_KEY"] = "8b6a8319e70039c5e4bcf19a146142b56e25104b1227a1b547761b3a816cdd36"
+os.environ["OPENAI_API_KEY"] = "REPLACE YOUR API KEY HERE"
+os.environ["SERPAPI_API_KEY"] = "REPLACE YOUR API KEY HERE"
 # question settings
 cnt = 1
 knowledge = '简易方程'
